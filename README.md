@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 Glad you're here!
+🔭 I’m currently working as App Manager
+🌱 I’m currently creating courses to teach how to code
+📫 How to reach me: jenncrxz@gmail.com
+
+🌎 https://jenncrxz.dev
+
+🐦 https://twitter.com/jenncrxz
 
 <!--
 **jenncrxz/jenncrxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
