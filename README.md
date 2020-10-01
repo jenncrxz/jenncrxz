@@ -1,6 +1,6 @@
 ### Hi there 👋 Glad you're here!
 🔭 I’m currently working as App Manager
-🌱 Creating courses to teach how to code
+🌱 Creating content to teach how to code
 📫 How to reach me: jenncrxz@gmail.com
 
 🌎 https://jenncrxz.dev
